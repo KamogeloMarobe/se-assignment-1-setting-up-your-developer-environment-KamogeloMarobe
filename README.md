@@ -13,28 +13,88 @@ This assignment aims to familiarize you with the tools and configurations necess
 1. Select Your Operating System (OS):
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
+   - macOS: check if macOS is up to date.
+   - Go to the System Settings > General > Software Update.
+
+   ![alt text](<Screenshot 2024-06-18 at 18.45.21.png>)
+   
+
+
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
+
+   - Visit Visual Studio Code Download page.
+   - Download the macOS installer.
+   - Open downloaded .dmg file and drag Visual Studio Code to Applications folder.
+
+
 3. Set Up Version Control System:
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
+
+   - Verify Git Installation.
+   - Configure Git.
+   - Go to GitHub and sign up.
+   - Initialize a Repository.
+
+   ![alt text](<Screenshot 2024-06-18 at 20.00.34.png>)
+   ![alt text](<Screenshot 2024-06-18 at 20.02.44.png>)
+   ![alt text](<Screenshot 2024-06-18 at 20.04.00.png>)
+
+
 
 4. Install Necessary Programming Languages and Runtimes:
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
+  - Download Python from Python's official website.
+  - Run the installer and follow the prompts.
+  - Verify installation.
+
+  ![alt text](<Screenshot 2024-06-18 at 20.21.11.png>)
+
 5. Install Package Managers:
    If applicable, install package managers like pip (Python).
+
+  - Install Homebrew. 
+  - Add Homebrew to PATH.
+  - Verify installation.
+
+  ![alt text](<Screenshot 2024-06-18 at 20.26.11-1.png>)
+
 
 6. Configure a Database (MySQL):
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 
+   Install MySQL using Homebrew.
+   Start MySQL.
+   Secure MySQL installation.
+
+   ![alt text](<Screenshot 2024-06-18 at 20.38.16-1.png>) 
+   ![alt text](<Screenshot 2024-06-18 at 20.38.59.png>) 
+   ![alt text](<Screenshot 2024-06-18 at 20.40.42.png>)
+
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
+
+   Download Docker Desktop for Mac from Docker's website.
+   Download Docker Desktop for Mac from Docker's website.
 
 8. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
+   Open VS Code and go to Extensions marketplace.
+   Search and install extensions.
+
+   ![alt text](<Screenshot 2024-06-18 at 20.42.10.png>)
+
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
+    
+10. Reflections:
+
+    Challenges - Encountered issues with setting up MySQL due to conflicting installations.
+    Solutions - Resolved by removing old MySQL versions and cleaning up the installation directory.
+
+
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
