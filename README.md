@@ -76,9 +76,11 @@ This assignment aims to familiarize you with the tools and configurations necess
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
    Download Docker Desktop for Mac from Docker's website.
-   Download Docker Desktop for Mac from Docker's website.
+   ![alt text](<Screenshot 2024-06-19 at 07.51.38.png>)
+   ![alt text](<Screenshot 2024-06-19 at 08.29.41.png>)
 
-8. Explore Extensions and Plugins:
+   
+9. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
    Open VS Code and go to Extensions marketplace.
@@ -86,10 +88,10 @@ This assignment aims to familiarize you with the tools and configurations necess
 
    ![alt text](<Screenshot 2024-06-18 at 20.42.10.png>)
 
-9. Document Your Setup:
+10. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
     
-10. Reflections:
+11. Reflections:
 
     Challenges - Encountered issues with setting up MySQL due to conflicting installations.
     Solutions - Resolved by removing old MySQL versions and cleaning up the installation directory.
